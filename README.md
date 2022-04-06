@@ -1,5 +1,9 @@
 # pex1
-Pex1 for Crypto written in haskell
+Pex1 for Crypto written in Haskell
+
+I dont know why I decided to do it this way. 
+
+https://www.haskell.org/
 
 To Run:
 1. curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
@@ -8,7 +12,7 @@ To Run:
 	- sudo cabal install primes
 	- sudo cabal install exact-real
 	- sudo cabal install numbers
-	- sudo cabal insall random
+	- sudo cabal install random
 
 4. ghci pex1.hs
 	- > Main> main
@@ -17,7 +21,7 @@ To Run:
 5. if you want to compile
 	- ghc pex1.hs
 
-* I have a compiled windows exe but I do not know if it will work 
+* Contact Andrew Lee for any questions
 
 # Documentation:
 The only thing that I used was the slides and stack overflow to help
