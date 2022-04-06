@@ -2,10 +2,29 @@
 Pex1 for Crypto written in haskell
 
 To Run:
-1. curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh 
-2. ghci pex1.hs
-3. Install missing libraries using Hackage and Cabal 
+1. curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
+3. Install missing libraries using Hackage and Cabal
 	- sudo cabal install "library name"
 	- sudo cabal install primes
 	- sudo cabal install exact-real
+	- sudo cabal install numbers
+	- sudo cabal insall random
 
+4. ghci pex1.hs
+	- > Main> main
+	- follow instructions
+
+5. if you want to compile
+	- ghc pex1.hs
+
+* I have a compiled windows exe but I do not know if it will work 
+
+##Documentation:
+The only thing that I used was the slides and stack overflow to help
+with haskell syntax since I am still trying to learn the language. I have listed
+the links that I used below. Other than this, I only used the course resources
+and help from Lt Col Merrit who told me to use ceiling instead of floor
+
+https://hackage.haskell.org/package/numbers-3000.2.0.2/docs/Data-Number-CReal.html
+https://stackoverflow.com/questions/49846233/dividing-by-huge-numbers-in-haskell
+https://hackage.haskell.org/package/base-4.16.1.0/docs/System-Timeout.html
