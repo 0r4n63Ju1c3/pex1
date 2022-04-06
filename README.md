@@ -19,7 +19,7 @@ To Run:
 
 * I have a compiled windows exe but I do not know if it will work 
 
-##Documentation:
+# Documentation:
 The only thing that I used was the slides and stack overflow to help
 with haskell syntax since I am still trying to learn the language. I have listed
 the links that I used below. Other than this, I only used the course resources
