@@ -25,6 +25,7 @@ To Run:
 5. if you want to compile use GHC
 	- ghc pex1.hs
 
+* executables should be included
 * Contact Andrew Lee for any questions
 
 # Documentation:
