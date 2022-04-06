@@ -2,6 +2,8 @@
 Pex1 for Crypto written in Haskell
 
 I dont know why I decided to do it this way.
+Location of GitHub is below, probably easier to do this way
+https://github.com/0r4n63Ju1c3/pex1
 
 https://www.haskell.org/
 
